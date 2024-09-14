@@ -1,0 +1,12 @@
+# always-ignore extensions
+*~
+
+# OS stuff
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
+.directory
+
+# IDEs and editors
+/.idea/
+/.vscode/
