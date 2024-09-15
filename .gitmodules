@@ -1,0 +1,4 @@
+[submodule "cookiecutter"]
+	path = cookiecutter
+	url = https://github.com/scverse/cookiecutter-scverse-presentation.git
+	branch = gh-pages
