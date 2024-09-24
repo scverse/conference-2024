@@ -2,3 +2,6 @@
 	path = cookiecutter
 	url = https://github.com/scverse/cookiecutter-scverse-presentation.git
 	branch = gh-pages
+[submodule "census_tiledb_training_atlas_scale_models"]
+	path = census_tiledb_training_atlas_scale_models
+	url = https://github.com/TileDB-Inc/scverse-ml-workshop-2024
